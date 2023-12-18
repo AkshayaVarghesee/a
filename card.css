@@ -1,0 +1,213 @@
+.main-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items:baseline;
+    
+    
+}
+
+.sub1{
+    width: 18%;
+    height: 310px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: rgba(251, 57, 203, 0.25) 0px 54px 55px, rgba(251, 57, 203, 0.25) 0px -12px 30px, rgba(0, 0, 0, 0.17) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    position: relative;
+  
+}
+.fa-heart{
+    position: relative;
+    color: rgb(249, 14, 14);
+    left: 238px;
+    bottom:152px;
+}
+.img1{
+    width: 90%;
+    height: 150px;
+    border-radius:75%;
+    margin-left:5%;
+    margin-top: 5%;
+
+}
+
+.sub2{
+    width: 18%;
+    height: 310px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: rgba(251, 57, 203, 0.25) 0px 54px 55px, rgba(251, 57, 203, 0.25) 0px -12px 30px, rgba(0, 0, 0, 0.17) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    position: relative;
+  
+}
+.img2{
+    width: 90%;
+    height: 150px;
+    border-radius:75%;
+    margin-left:5%;
+    margin-top: 5%;
+}
+.sub3{
+    width: 18%;
+    height: 310px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: rgba(251, 57, 203, 0.25) 0px 54px 55px, rgba(251, 57, 203, 0.25) 0px -12px 30px, rgba(0, 0, 0, 0.17) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    position: relative;
+}
+.img3{
+    width: 90%;
+    height: 150px;
+    border-radius:75%;
+    margin-left:5%;
+    margin-top: 5%;
+}
+.sub4{
+    width: 18%;
+    height: 310px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: rgba(251, 57, 203, 0.25) 0px 54px 55px, rgba(251, 57, 203, 0.25) 0px -12px 30px, rgba(0, 0, 0, 0.17) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    position: relative;
+}
+.img4{
+    width: 90%;
+    height: 150px;
+    border-radius:75%;
+    margin-left:5%;
+    margin-top: 5%;
+}
+.sub5{
+    width: 18%;
+    height: 310px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: rgba(251, 57, 203, 0.25) 0px 54px 55px, rgba(251, 57, 203, 0.25) 0px -12px 30px, rgba(0, 0, 0, 0.17) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    position: relative;
+}
+.img5{
+    width: 90%;
+    height: 150px;
+    border-radius:75%;
+    margin-left:5%;
+    margin-top: 5%;
+
+}
+
+
+.h1c{
+
+    text-align: center;
+    text-shadow:rgba(251, 57, 203, 0.25) 0px 54px 55px, rgba(251, 57, 203, 0.25) 0px -12px 30px, rgba(0, 0, 0, 0.17) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+
+.h{
+   font-size: 50px;
+   color: white;
+   text-shadow:rgba(251, 57, 203, 0.25) 0px 54px 55px, rgba(251, 57, 203, 0.25) 0px -12px 30px, rgba(0, 0, 0, 0.17) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+ 
+}
+
+.cr{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    
+    
+}
+
+.lm{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+ 
+}
+
+.sg{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    
+   
+}
+
+.kj{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+   
+    
+}
+
+.dj{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+   
+
+}
+
+.text{
+    color: white;
+    font-size: 08px;
+    text-align: center;
+}
+
+.h2{
+font-size: 12px;
+color: white;
+text-align: center;
+font-style: italic;
+text-decoration: none;
+
+}
+/* }
+
+@media only screen and (max-width:600px){
+    .sub1{
+        width: 90%;
+       
+    }
+    .fa-heart{
+        width: 60%;
+    }
+    .img1{
+        width: 90%;
+    }
+
+    .sub2{
+        width: 90%;
+    }
+    .fa-heart{
+        width: 60%;
+    }
+    .img2{
+        width: 90%;
+    }
+    .sub3{
+        width: 90%;
+    }
+    .fa-heart{
+        width: 60%;
+    }
+    .img3{
+        width: 90%;
+    }   .sub4{
+        width: 90%;
+    }
+    .fa-heart{
+        width: 60%;
+    }
+    .img4{
+        width: 90%;
+    }   .sub5{
+        width: 90%;
+    }
+    .fa-heart{
+        width: 60%;
+    }
+    .img5{
+        width: 90%;
+    }
+} */
